@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-id-2596754985129893734",
+  "private_key_id": "5fcd0fc97f647f4063d5a2a65521c28cdd63c58b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7HB44H6L5lRko\n98Itnxq2szi6iiSwVhJ4nWl/ETk2fmVi2AnCVGKJtpSqchRSucQeVVmYIYiAOig5\njhFi2CUr+OHqokmra+fzljdMHaUW002yXN1gcJFJ6e2Esy8Z17700xXABqhJja1w\nzcrqmM/qBtosZU4hoGrJSy4xW7kbmgZnHg3d3VHv6lszOlocaku7VrgxaFzYlj+6\n+vDexYS6igfzSwKzDbj7Mu8rEPJGwfxJ8RAhhxY56EOfR9iOfRrd/3BL1TZ9mrO4\nwV6yVv2l014S43MOgjhIxvzCw+X4vz8E5z5T/jihuk8lr32BAamp6caE80htlm9z\nVhJ/Vn2hAgMBAAECggEAK3cErhTrTv8LsTCcsuxa0EYhz3N3wl68O7iVYScnGzmR\nY7y7x6DCoyr+rfmCLxVoMYOyJFzl0KOx5GzULRn4yJYwJMk+Q8v1PeiPP+dDCmJb\nkitwYY7EsV7eBg15y48KlOTUEJ97SFrZB3NGx+hno/2jgNynobgaFliYim68OWTQ\naxh98x83KeU/ZWVH8K6RtcnArG0ItOep6vOchT9Llc1E2ugFFt0VbGI6R7/TOoIi\nYdR/VhR+0UoLcsmKzWoR41+2norfz2zZPkiVEIDVbcWbUNhFQV+LKKCPQVcIiEM3\nes7xyG6tOgA5bOqz/vVSXoq/tSXEOY7U5HXNKnvaAQKBgQDoRug1lYYbQoXf1Whv\nr0Lef3kn3Ekfig5tU/JYw91KIHh/rYoA+lvuPl+LjR9118ov0tewHS0kig5+H/fp\nplJ/DHfqkMQPhDrQWkrbOeShyZABRSmM+/oTowHvALYl5dcfHnwvox4011DRBFh7\nlmOhhATYTGJS5sTyh+P/BOSO6QKBgQDOOEZfsBtP0JBQrYOq1KDcrmwNETnJ/JlU\ncZFqFVPVn29ivLngg0BzRaSY2vtkC5lHweneSscYd5recAbtT2Y299eH6ZZb8CYI\nCp+fKg3nYryM/UmaTrfSuCMWms0lptIRIrYt6TuqUg46PlPl6E7ovSXvbvTjPh+s\nN4qIPZ91+QKBgBWc02p4+Tt8GxzSrJ8Hvb8aOVm+I4etvt3pW7lqsCJ/lva6XQbu\nRLOMVjOT9ANxCr0cbzlR3atytRqDOvwgn7h2nonS4otXEGnmnOR9JIrxSFb16oHV\nyFUfa8SjWk94bWXV3lRIZz0fc8OfFeSZ/7c9o33EzblNA7JVdp96AxJRAoGAJYea\nTxnGrqzfRr99Qd62c9MOeQZUhQ0Cfpq4gxzkh/EfHVIJZfGdDh1zihn4PEncGHIS\n9NCZETvbJHYw3IlhqclLIUICijLXSQld6WKG60BN3j7OYVXIIIJAaIG9qgeFHXc6\nvno+0I1kZ3cmX6X6jmK1/7AqwxxwOTBWdtr4JUkCgYEAkHLqIzBvR8+uiumFaIpg\nAxcJ56BH3L88IXS69mJan1mgCDy1+ii0QlOaXUdikvLdDgXDJhxu4EEeciLqUWJe\n4eb+7gbpWL+694vbIqf4/TktnwTkO2I22B3ehiH/+je2VCGVwmQuhJdjDu6ZJz9f\na1ZDlynxygEn7rea/s8RRew=\n-----END PRIVATE KEY-----\n",
+  "client_email": "somerset-lib-nj-us@project-id-2596754985129893734.iam.gserviceaccount.com",
+  "client_id": "106901087042354501735",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/somerset-lib-nj-us%40project-id-2596754985129893734.iam.gserviceaccount.com"
+}
